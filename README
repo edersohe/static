@@ -1,0 +1,12 @@
+Basic static files for web projects
+
+jQuery                 jquery.com                                   raw.github.com/jquery/jquery/master/MIT-LICENSE.txt
+Flotr2                 humblesoftware.com/flotr2                    raw.github.com/HumbleSoftware/Flotr2/master/LICENSE
+TimelineJS
+Foundation                                                          raw.github.com/zurb/foundation/master/LICENSE
+	Framework          foundation.zurb.com
+	Icons              www.zurb.com/playground/foundation-icons 
+	Off Canvas         www.zurb.com/playground/off-canvas-layouts
+	Responsive Tables  www.zurb.com/playground/responsive-tables
+Glyphicons             glyphicons.com                               creativecommons.org/licenses/by-nd/3.0
+Backbone.js            backbonejs.org                               raw.github.com/documentcloud/backbone/master/LICENSE
